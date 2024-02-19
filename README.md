@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Sole Mate**
 
-- 🌱 I’m currently learning **JavaScript, Ruby**
+- 🌱 I’m working as a **Software Engineer at Planet Argon**
 
 - 💬 Ask me about **React, JavaScript, and Ruby**
 
