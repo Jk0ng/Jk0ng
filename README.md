@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on **Treasure Hunt**
+- 🔭 I’m currently working on **Sole Mate**
 
 - 🌱 I’m currently learning **JavaScript, Ruby**
 
