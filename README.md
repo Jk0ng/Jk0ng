@@ -5,9 +5,7 @@
 
 
 
-- 🔭 I’m currently working on **Sole Mate**
-
-- 🌱 I’m working as a **Software Engineer at Planet Argon**
+- 🔭 I’m currently working on **Escaperoom**
 
 - 💬 Ask me about **React, JavaScript, and Ruby**
 
